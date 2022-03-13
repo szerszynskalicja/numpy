@@ -1,9 +1,7 @@
 import numpy as np
 import sys
 import numpy.polynomial.polynomial as poly
-from numpy.testing import (
-        assert_almost_equal, assert_raises, assert_equal, assert_,
-        assert_warns, assert_array_equal, assert_raises_regex)
+from numpy.testing import (assert_equal)
 
 
 class TestPolysub:
