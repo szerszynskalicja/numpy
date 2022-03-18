@@ -3,7 +3,7 @@ import numpy as np
 x = np.binary_repr(4, 8)
 print(x)
 
-x = np.binary_repr(100,8)
+x = np.binary_repr(100,4)
 print(x)
 
 x = np.invert(True)

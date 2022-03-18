@@ -24,6 +24,12 @@ print(x)
 x = em.power(-2,2)
 print(x)
 
+x = em.power(2, 35)
+print(x)
+
+x = em.power(50, 7)
+print(x)
+
 x = em.power(-2,-2)
 print(x)
 
