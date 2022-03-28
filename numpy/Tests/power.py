@@ -23,3 +23,6 @@ print(x)
 
 x = em.power(0, 4)
 print(x)
+
+x = em.power(-2, 3)
+print(x)
